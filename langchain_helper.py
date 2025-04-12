@@ -1,6 +1,6 @@
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import TextLoader
-from langchain_community.embeddings import HuggingFaceInstructEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 import google.generativeai as genai
@@ -14,7 +14,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel('models/gemini-1.5-pro-latest')
 
 # Embedding model
-instructor_embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-large")
+instructor_embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vectordb_file_path = "vectorstore_index"
 
 def create_vector_db():
