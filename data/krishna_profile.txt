@@ -1,0 +1,48 @@
+Krishna Tyagi
++91 7827397095| krishnatyagi2526@gmail.com
+Leetcode | Github | LinkedIn
+EDUCATION
+
+Bhagwan Parshuram Institute of Technology	Sept 2023 - May 2027
+B.Tech in Information Technology | New Delhi, India | GPA: 9.00/10.0
+Cambridge School Indirapuram
+12th | C.B.S.E. | PCM | Percentage: 90%                                                                                                     2022-2023
+
+PROJECTS
+Medical AI Chatbot  | Link
+Fine-tuned LLaMA 3 on medical datasets for diagnosis & treatment suggestions.
+Deployed via Hugging Face API with 4-bit quantization for efficiency.
+Built an interactive Streamlit UI with secure API handling.
+Technologies - Python, LLaMA 3, Hugging Face API, Unsloth, Streamlit
+Food Delivery Time Prediction  | Link
+Developed an LSTM-based deep learning model for food delivery time prediction, achieving 85% accuracy, optimizing delivery estimates, and reducing prediction errors by 20%.
+Preprocessed and trained the model using TensorFlow, Keras, NumPy, and Pandas.
+Deployed the model as an interactive web application via Streamlit and Streamlit Cloud for real-time predictions.
+Technologies - Machine Learning, Keras, TensorFlow, Streamlit
+     Next Word Predictor | Link
+Designed an LSTM-based predictive text model trained on the works of Sherlock Holmes, enabling accurate word prediction.
+Preprocessed text using tokenization, padding, and one-hot encoding for sequence learning.
+Trained and optimized the model using TensorFlow/Keras, achieving over 80% accuracy on validation data.
+Technologies - Deep Learning, TensorFlow, Keras, Flask
+    Spam Detection System | Link
+Engineered a binary classification model leveraging Naive Bayes and Sklearn, achieving 95% accuracy in identifying spam SMS messages from Kaggle dataset and minimized false positives by 15%.
+Technologies - Naive Bayes, Sklearn
+
+CERTIFICATIONS
+AI Agents Fundamentals by HuggingFace | Link
+Gained foundational knowledge of AI agents, their development, and their real-world applications.
+Technologies  - HuggingFace | Smolagents
+Introducing Generative AI using AWS  by Udemy | Link
+This course delves into generative AI, focusing on its fundamentals, historical context, and real-world applications.
+Technologies  - AWS EC2 Sagemaker | AWS S3 Bucket | GPU
+
+   SKILLS
+	Programming Languages: Python, C++, C
+	Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Quantization, HuggingFace, PEFT
+	Libraries: NumPy, Pandas, Matplotlib, spaCy, NLTK
+	Cloud & Deployment: AWS S3, AWS SageMaker, Streamlit, Flask, Gemini API
+	Development Tools: Git, VSCode, Jupyter Notebook, Google Colab, CI/CD
+	Databases & Frameworks: MySQL, ChromaDB
+ACHIEVEMENTS
+Solved 300+ DSA problems on Leetcode & CodingNinjas, focusing on Linked List and tree algorithms.
+Awarded Reliance Foundation Undergraduate Scholarship, a merit-based award given to only 5,000 students nationwide.

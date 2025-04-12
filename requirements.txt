@@ -1,0 +1,12 @@
+langchain==0.1.14
+langchain-community==0.0.30
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+transformers==4.38.2
+torch==2.2.2
+huggingface_hub==0.21.4
+faiss-cpu==1.8.0
+protobuf
+python-dotenv
+streamlit
+tiktoken
